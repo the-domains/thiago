@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[THIAGO]]></title>
+        <description><![CDATA[THIAGO]]></description>
+        <link>https://thegrid.ai/thiago/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 14:03:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thiago/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Titulo da bagaça]]></title>
+            <description><![CDATA[<article><h1>Titulo da bagaça</h1><p>marvilha</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915f2d69-9bb4-475c-b7fa-20268517b8d2.png"></article>]]></description>
+            <link>https://thegrid.ai/thiago/49d1c322-4fc1-4d40-a865-66bf7fcf9cdd/index.html</link>
+            <guid isPermaLink="false">49d1c322-4fc1-4d40-a865-66bf7fcf9cdd</guid>
+            <pubDate>Wed, 03 Aug 2016 14:03:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
