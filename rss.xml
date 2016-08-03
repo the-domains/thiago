@@ -4,7 +4,7 @@
         <description><![CDATA[THIAGO]]></description>
         <link>https://thegrid.ai/thiago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:11:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thiago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Modo de preparo]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>That's a new post, mate.</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6c19d2-5dbf-4c70-8150-adffba50c396.jpg">]]></description>
             <link>https://thegrid.ai/thiago/thats-a-new-post-mate/index.html</link>
             <guid isPermaLink="false">2f3b9566-72b0-47fe-89e6-3a804aed54b8</guid>
-            <pubDate>Wed, 03 Aug 2016 14:06:28 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 14:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ff7ef2f-6e77-43b0-8863-7d417da166a7.jpg">]]></description>
+            <link>https://thegrid.ai/thiago/testing-mate/index.html</link>
+            <guid isPermaLink="false">b1870986-ee11-45af-937c-e50df7ea93eb</guid>
+            <pubDate>Wed, 03 Aug 2016 14:09:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Titulo da bagaça]]></title>
