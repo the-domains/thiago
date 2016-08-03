@@ -1,19 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'testing, mate'
-datePublished: '2016-08-03T14:09:53.363Z'
-dateModified: '2016-08-03T14:08:47.683Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-03T14:19:25.606Z'
+dateModified: '2016-08-03T14:18:54.605Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-testing-mate.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: testing-mate/index.html
 _type: Article
 
