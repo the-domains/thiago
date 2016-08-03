@@ -4,14 +4,28 @@
         <description><![CDATA[THIAGO]]></description>
         <link>https://thegrid.ai/thiago/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:06:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thiago/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Modo de preparo]]></title>
+            <description><![CDATA[<article><h1>Modo de preparo</h1><p>Ingredientes</p></article>]]></description>
+            <link>https://thegrid.ai/thiago/modo-de-preparo/index.html</link>
+            <guid isPermaLink="false">a2ddfe3f-59f6-4b61-a72e-8a5fb5a06e31</guid>
+            <pubDate>Wed, 03 Aug 2016 14:04:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915f2d69-9bb4-475c-b7fa-20268517b8d2.png">]]></description>
+            <description><![CDATA[<p>That's a new post, mate.</p>]]></description>
+            <link>https://thegrid.ai/thiago/thats-a-new-post-mate/index.html</link>
+            <guid isPermaLink="false">2f3b9566-72b0-47fe-89e6-3a804aed54b8</guid>
+            <pubDate>Wed, 03 Aug 2016 14:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titulo da bagaça]]></title>
+            <description><![CDATA[<article><h1>Titulo da bagaça</h1><p>marvilha</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915f2d69-9bb4-475c-b7fa-20268517b8d2.png"></article>]]></description>
             <link>https://thegrid.ai/thiago/49d1c322-4fc1-4d40-a865-66bf7fcf9cdd/index.html</link>
             <guid isPermaLink="false">49d1c322-4fc1-4d40-a865-66bf7fcf9cdd</guid>
-            <pubDate>Wed, 03 Aug 2016 14:02:24 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 14:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
